@@ -14,6 +14,16 @@ export default {
       type: "string",
     },
     {
+      name: "descriptionEs",
+      title: "Descripción español (opcional)",
+      type: "string",
+    },
+    {
+      name: "descriptionEn",
+      title: "Descripción inglés (opcional)",
+      type: "string",
+    },
+    {
       name: "mainCategories",
       title: "Categoría pricipal",
       type: "array",
