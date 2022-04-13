@@ -42,6 +42,41 @@ export default {
         hotspot: true,
       },
     },
+    {
+      name: "new",
+      title: "Nuevo",
+      type: "boolean",
+    },
+    {
+      name: "recommended",
+      title: "Recomendado",
+      type: "boolean",
+    },
+    {
+      name: "vegan",
+      title: "Vegano",
+      type: "boolean",
+    },
+    {
+      name: "vegetarian",
+      title: "Vegetariano",
+      type: "boolean",
+    },
+    {
+      name: "glutenFree",
+      title: "Sin gluten",
+      type: "boolean",
+    },
+    {
+      name: "sugarFree",
+      title: "Sin azucar",
+      type: "boolean",
+    },
+    {
+      name: "alcoholFree",
+      title: "Sin alcohol",
+      type: "boolean",
+    },
   ],
 
   preview: {
